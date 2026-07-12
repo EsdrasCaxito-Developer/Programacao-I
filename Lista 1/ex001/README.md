@@ -10,7 +10,14 @@
 
 ## 🎯 Objetivo 
 
-Este exercício tem como finalidade apresentar a estrutura básica de um programa em C e introduzir: - A função `main()`; - A utilização da biblioteca `stdio.h`; - A função `printf()`; - O processo de compilação e execução de um programa. 
+Este exercício tem como finalidade apresentar a estrutura básica de um programa em C e introduzir: 
+- A função `main()`; 
+
+- A utilização da biblioteca `stdio.h`; 
+
+- A função `printf()`; 
+
+- O processo de compilação e execução de um programa. 
 
 ---
 
@@ -36,6 +43,9 @@ ex001/
 ## 📚 Conceitos abordados
 
  - Estrutura básica de um programa em C 
+ 
  - Biblioteca `stdio.h` 
+
  - Função `main()` 
+
  - Saída de dados com `printf()` 

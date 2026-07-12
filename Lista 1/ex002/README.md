@@ -10,10 +10,13 @@ O programa recebe os dados solicitados pelo utilizador, realiza os cálculos ou 
 
 ## 🎯 Objetivos de Aprendizagem
 
--Praticar a leitura de dados pelo teclado;
--Aplicar operadores aritméticos e lógicos;
--Desenvolver o raciocínio algorítmico;
--Produzir saídas formatadas utilizando a linguagem C.
+- Praticar a leitura de dados pelo teclado;
+
+- Aplicar operadores aritméticos e lógicos;
+
+- Desenvolver o raciocínio algorítmico;
+
+- Produzir saídas formatadas utilizando a linguagem C.
 
 ---
 
@@ -44,8 +47,12 @@ ex002/
 
 ## 📚 Conceitos Trabalhados
 
--Entrada e saída de dados (scanf e printf);
--Variáveis e tipos de dados;
--Operadores aritméticos;
--Expressões matemáticas;
--Organização básica de programas em C.
+- Entrada e saída de dados (scanf e printf);
+
+- Variáveis e tipos de dados;
+
+- Operadores aritméticos;
+
+- Expressões matemáticas;
+
+- Organização básica de programas em C.
