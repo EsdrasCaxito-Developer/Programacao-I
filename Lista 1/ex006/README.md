@@ -1,14 +1,12 @@
-# 📘 Exercício 03
+# 📘 Exercício 06
 
 ## 📖 Descrição
 
-**Equivalente decimal**
+** Maior entre 2 números ** 
 
-Escreva um programa C que leia uma fracção no formato a/b onde a e b são dois inteiros e
-retorna seu equivalente decimal para a precisão de duas casas decimais. 
-
-Exemplo: Se o usuário
-inserir 3/2, o programa deve imprimir: 3/2 = 1,50
+Escreva um programa C que lê dois inteiros e imprima o maior deles. Para calcular o maior
+entre os dois inteiros, farão recurso, na fórmula, da função abs() da biblioteca stdlib.h para
+obter o valor absoluto da diferença
 
 ---
 
@@ -33,7 +31,7 @@ Linguagem C
 ## 📂 Estrutura do Projeto
 
 ```
-ex003/ 
+ex006/ 
 ├── README.md 
 └── main.c 
 ```
@@ -42,8 +40,9 @@ ex003/
 ## 💻 Saída esperada
 
  ``` 
-    3/2            
-    Resultado: 1.50
+    12
+    15            
+    Resultado: O maior valor: 15.
   ``` 
 ---
 

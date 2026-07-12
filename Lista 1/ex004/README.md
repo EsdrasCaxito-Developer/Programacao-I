@@ -1,14 +1,12 @@
-# 📘 Exercício 03
+# 📘 Exercício 04
 
 ## 📖 Descrição
 
-**Equivalente decimal**
+**Parte fraccionária**
 
-Escreva um programa C que leia uma fracção no formato a/b onde a e b são dois inteiros e
-retorna seu equivalente decimal para a precisão de duas casas decimais. 
+Escreva um programa C que leia um número real e imprima a sua parte fracionária. 
 
-Exemplo: Se o usuário
-inserir 3/2, o programa deve imprimir: 3/2 = 1,50
+Exemplo: a parte fracionária de 3,09 é 0,09.
 
 ---
 
@@ -33,7 +31,7 @@ Linguagem C
 ## 📂 Estrutura do Projeto
 
 ```
-ex003/ 
+ex004/ 
 ├── README.md 
 └── main.c 
 ```
@@ -42,8 +40,8 @@ ex003/
 ## 💻 Saída esperada
 
  ``` 
-    3/2            
-    Resultado: 1.50
+    3.09            
+    Resultado: a parte fracionária de 3,09 é 0,09.
   ``` 
 ---
 

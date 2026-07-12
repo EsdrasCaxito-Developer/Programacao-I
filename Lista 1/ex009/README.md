@@ -1,14 +1,14 @@
-# 📘 Exercício 03
+# 📘 Exercício 09
 
 ## 📖 Descrição
 
-**Equivalente decimal**
+**Resistência em série e em paralelo**
 
-Escreva um programa C que leia uma fracção no formato a/b onde a e b são dois inteiros e
-retorna seu equivalente decimal para a precisão de duas casas decimais. 
+Escreva um programa em linguagem C que imprime a resistência em série e em paralelo equivalente a três resistores R1, R2, R3 (tipo double).
 
-Exemplo: Se o usuário
-inserir 3/2, o programa deve imprimir: 3/2 = 1,50
+Rserie = R1 + R2 + R3
+
+Rparalelo = (R1 × R2 × R3) / (R1 × R2 + R1 × R3 + R2 × R3)
 
 ---
 
@@ -33,7 +33,7 @@ Linguagem C
 ## 📂 Estrutura do Projeto
 
 ```
-ex003/ 
+ex009/ 
 ├── README.md 
 └── main.c 
 ```
@@ -42,8 +42,12 @@ ex003/
 ## 💻 Saída esperada
 
  ``` 
-    3/2            
-    Resultado: 1.50
+    r1: 12
+    r2: 11
+    r3: 10
+           
+    Resultado: Resistencia em serie:    33.00.
+    Resultado: Resistencia em paralelo:  3.53.
   ``` 
 ---
 

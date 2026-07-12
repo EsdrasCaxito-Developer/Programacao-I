@@ -1,14 +1,13 @@
-# 📘 Exercício 03
+# 📘 Exercício 07
 
 ## 📖 Descrição
 
-**Equivalente decimal**
+** Distância entre 2 pontos ** 
 
-Escreva um programa C que leia uma fracção no formato a/b onde a e b são dois inteiros e
-retorna seu equivalente decimal para a precisão de duas casas decimais. 
+Escreva um programa que calcule e imprima a distância dist (tipo double) entre dois pontos A e
+B do plano cartesiano, cujas coordenadas (XA, YA) e (XB, YB) são inseridas no teclado. 
 
-Exemplo: Se o usuário
-inserir 3/2, o programa deve imprimir: 3/2 = 1,50
+Usando a fórmula: dist = √(XA − XB)^2 + (Y A − Y B)^2
 
 ---
 
@@ -33,7 +32,7 @@ Linguagem C
 ## 📂 Estrutura do Projeto
 
 ```
-ex003/ 
+ex007/ 
 ├── README.md 
 └── main.c 
 ```
@@ -42,8 +41,12 @@ ex003/
 ## 💻 Saída esperada
 
  ``` 
-    3/2            
-    Resultado: 1.50
+    xa = 12
+    xb = 15
+    ya = 20
+    yb = 11
+           
+    Resultado: A distancia entre eles: 9.49.
   ``` 
 ---
 

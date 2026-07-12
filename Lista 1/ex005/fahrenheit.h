@@ -1,0 +1,1 @@
+#define FAHR(c) (c * 9/5 + 32)

@@ -1,14 +1,16 @@
-# 📘 Exercício 03
+# 📘 Exercício 06
 
 ## 📖 Descrição
 
-**Equivalente decimal**
+** Área de um triângulo ** 
 
-Escreva um programa C que leia uma fracção no formato a/b onde a e b são dois inteiros e
-retorna seu equivalente decimal para a precisão de duas casas decimais. 
+Escreva um programa que calcule e imprima a área de um triângulo escaleno cujos comprimentos em todos os três lados devem ser inseridos pelo utilizador. 
 
-Exemplo: Se o usuário
-inserir 3/2, o programa deve imprimir: 3/2 = 1,50
+Use a fórmula: Area = √ P × (P − a) × (P − b) × (P − c)
+
+Onde a, b, c são os comprimentos dos três lados e P o semi-perímetro do triângulo:
+
+P = (a + b + c) / 2
 
 ---
 
@@ -33,7 +35,7 @@ Linguagem C
 ## 📂 Estrutura do Projeto
 
 ```
-ex003/ 
+ex008/ 
 ├── README.md 
 └── main.c 
 ```
@@ -42,8 +44,11 @@ ex003/
 ## 💻 Saída esperada
 
  ``` 
-    3/2            
-    Resultado: 1.50
+    a = 12
+    b = 11
+    c = 10
+           
+    Resultado: A area: 43.82.
   ``` 
 ---
 

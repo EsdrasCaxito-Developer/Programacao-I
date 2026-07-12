@@ -1,14 +1,13 @@
-# 📘 Exercício 03
+# 📘 Exercício 05
 
 ## 📖 Descrição
 
-**Equivalente decimal**
+**Conversão de graus Celsius para Fahrenheit**
 
-Escreva um programa C que leia uma fracção no formato a/b onde a e b são dois inteiros e
-retorna seu equivalente decimal para a precisão de duas casas decimais. 
+Escreva um programa em linguagem C que converta uma temperatura de graus Celsius para
+graus Fahrenheit. A fórmula de conversão deve ser definida através de uma diretiva do pré-processador (#define) num ficheiro de cabeçalho separado. 
 
-Exemplo: Se o usuário
-inserir 3/2, o programa deve imprimir: 3/2 = 1,50
+A fórmula é dada por: F = (9/5 x C) + 32
 
 ---
 
@@ -33,8 +32,9 @@ Linguagem C
 ## 📂 Estrutura do Projeto
 
 ```
-ex003/ 
+ex005/ 
 ├── README.md 
+└── fahrenheit.h 
 └── main.c 
 ```
 ---
@@ -42,8 +42,8 @@ ex003/
 ## 💻 Saída esperada
 
  ``` 
-    3/2            
-    Resultado: 1.50
+    100            
+    Resultado: A temperatura correspondente em F: 212.00.
   ``` 
 ---
 
