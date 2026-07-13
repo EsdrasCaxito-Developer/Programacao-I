@@ -12,9 +12,9 @@ Desenvolva um programa em linguagem C que calcule o volume e a área total de um
 
 3- E devem ser calculados:
 
-- Volume da esfera: V = 4/3 × π × r^3
+- Volume da esfera: V = 4/3 × π × r<sup>3</sup>
 
-- Área da superfície: A = 4 × π × r^2
+- Área da superfície: A = 4 × π × r<sup>2</sup>
 
 
 ---

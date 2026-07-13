@@ -15,7 +15,7 @@ apresentar:
 O valor de π (PI) deve ser definido através de uma diretiva do pré-processador (#define) num
 ficheiro de cabeçalho separado, o qual deverá ser incluído no programa principal e usar a biblioteca math.h para elevar o raio ao quadrado. As fórmulas a utilizar são:
 
-A = π × r^2
+A = π × r<sup>2</sup>
 
 P = 2 × π × r
 

@@ -7,7 +7,7 @@
 Escreva um programa que calcule e imprima a distância dist (tipo double) entre dois pontos A e
 B do plano cartesiano, cujas coordenadas (XA, YA) e (XB, YB) são inseridas no teclado. 
 
-Usando a fórmula: dist = √(XA − XB)^2 + (Y A − Y B)^2
+Usando a fórmula: dist = √(XA − XB)<sup>2</sup> + (Y A − Y B)<sup>2</sup>
 
 ---
 
