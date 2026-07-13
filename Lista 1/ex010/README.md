@@ -42,7 +42,7 @@ Linguagem C
 ## 📂 Estrutura do Projeto
 
 ```
-ex007/ 
+ex010/ 
 ├── README.md 
 └── main.c 
 └── valor_pi.h 
