@@ -37,7 +37,7 @@ E se for, diga adicionalmente se está em minúsculas ou maiúsculas.
 ## 📂 Estrutura do Projeto
 
 ```
-ex004/ 
+ex006/ 
 ├── README.md 
 └── main.c 
 ```
