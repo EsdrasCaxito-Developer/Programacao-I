@@ -45,12 +45,8 @@ ex004/
 
 ## 💻 Saída esperada
 
- ``` 
-  Letra = A
+  <img src="./result.png"/>
 
-  Resultado: Parte do Alfabeto.
-  Resultado: Maiuscúla.
-  ``` 
 ---
 
 ## 📚 Conteúdos Praticados
