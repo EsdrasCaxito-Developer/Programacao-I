@@ -44,11 +44,8 @@ ex007/
 
 ## 💻 Saída esperada
 
- ``` 
-  Letra = A
+ <img src="./result.png">
 
-  Resultado: Vogal.
-  ``` 
 ---
 
 ## 📚 Conteúdos Praticados

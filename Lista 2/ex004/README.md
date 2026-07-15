@@ -49,12 +49,8 @@ ex004/
 
 ## 💻 Saída esperada
 
- ``` 
-  Inicio [HH:MM]: 22:40
-  Inicio [HH:MM]: 02:50
+  <img src="./result.png">
 
-  Resultado: O tempo de duracao 4h:10min
-  ``` 
 ---
 
 ## 📚 Conteúdos Praticados
