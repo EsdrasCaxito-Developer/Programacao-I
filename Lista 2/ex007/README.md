@@ -36,7 +36,7 @@ Escreva um programa em C para verificar se um letra é uma vogal ou uma consoant
 ## 📂 Estrutura do Projeto
 
 ```
-ex004/ 
+ex007/ 
 ├── README.md 
 └── main.c 
 ```

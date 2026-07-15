@@ -36,7 +36,7 @@ Escreva um programa em C para aceitar um ponto de coordenadas num sistema de coo
 ## 📂 Estrutura do Projeto
 
 ```
-ex004/ 
+ex005/ 
 ├── README.md 
 └── main.c 
 ```
