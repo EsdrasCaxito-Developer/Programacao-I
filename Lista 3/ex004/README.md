@@ -1,15 +1,15 @@
-# 📘 Exercício 3
+# 📘 Exercício 4
 
-**Matriz Transposta**
+**Média de cada linha**
 
-Crie uma matriz 3x3 e gere sua matriz transposta
+Calcule a média dos elementos para cada linha de uma matriz
 
 ---
 
 ## 📂 Estrutura do Projeto
 
 ```
-ex003/ 
+ex004/ 
 ├── README.md 
 └── main.c 
 ```
@@ -27,4 +27,4 @@ ex003/
 
 - Matrizes 
 
-- Permutação de elementos
+- Estatísticas da matriz

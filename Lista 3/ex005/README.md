@@ -1,15 +1,15 @@
-# 📘 Exercício 3
+# 📘 Exercício 5
 
-**Matriz Transposta**
+**Multiplicação de 2 matrizes**
 
-Crie uma matriz 3x3 e gere sua matriz transposta
+Escreva um programa que realize o produto de duas matrizes quadradas de mesma dimensão.
 
 ---
 
 ## 📂 Estrutura do Projeto
 
 ```
-ex003/ 
+ex005/ 
 ├── README.md 
 └── main.c 
 ```
@@ -27,4 +27,4 @@ ex003/
 
 - Matrizes 
 
-- Permutação de elementos
+- Produto Matricial
