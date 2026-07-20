@@ -10,21 +10,23 @@ Programacao-I/
 │ ├── ex002/ 
 │ ├── ... 
 │ └── ex015/ 
+│ └──  
 │ ├── Lista-02/ 
 │ ├── ex001/ 
 │ ├── ... 
 │ └── ex015/ 
+│ ├── 
 │ ├── Lista-03/ 
 │ ├── ex001/ 
 │ ├── ... 
 │ └── ex012/ 
-│ ├── Exames/ 
-│ ├── Exame-2020/ 
-│ ├── Exame-2026/ 
-│ └── ... 
-│ ├── Recurso/ 
-│ ├── Recurso-2020/ 
-│ ├── Recurso-2026/ 
+│ ├── 
+│ ├── Testes/ 
+│ ├── Exames normais/ 
+│ ├── Exames de recurso/ 
+│ ├── Provas Parcelares/ 
+│ ├── ... 
+│ ├── 
 │ └── README.md  
 ``` 
 ---
@@ -42,7 +44,7 @@ Programacao-I/
 - Manipulação de números inteiros e reais 
 - Geometria e cálculos matemáticos 
 
-A lista contém **15 exercícios**. 
+A lista contém **14 exercícios**. 
 
 --- 
 
@@ -76,7 +78,7 @@ Nesta etapa são explorados conceitos mais avançados da linguagem C, incluindo:
 - Aritmética de ponteiros 
 - Manipulação eficiente de memória 
 
-A lista contém **12 exercícios**. 
+A lista contém **11 exercícios**. 
 
 --- 
 
@@ -86,6 +88,7 @@ Além das listas de exercícios, este repositório reúne resoluções de avalia
 - 📄 Provas Parcelares 
 - 📄 Exames especiais 
 - 📝 Exames de recurso 
+
 Estas resoluções complementam os conteúdos estudados nas listas e ajudam na preparação para avaliações futuras. 
 
 ---
@@ -93,7 +96,7 @@ Estas resoluções complementam os conteúdos estudados nas listas e ajudam na p
 ## 🛠️ Tecnologias Utilizadas 
 - Linguagem C 
 - Biblioteca Padrão da Linguagem C 
-- Biblioteca Math (`math.h`) 
+- Bibliotecas do C 
 
 
 ## 🎯 Objetivos 
@@ -121,6 +124,7 @@ Este repositório tem como principais objetivos:
 - Bibliotecas padrão 
 - Diretivas do pré-processador 
 - Manipulação de memória 
+- Análise Combinatória
 ---
 
 ## 👨‍💻 Autor 
