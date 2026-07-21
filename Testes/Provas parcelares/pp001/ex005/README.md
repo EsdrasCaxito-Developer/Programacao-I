@@ -25,7 +25,7 @@ Dada uma string (frase), fazer um programa que apresente todas as palavras em mi
 ## 📂 Estrutura do Projeto
 
 ```
-ex006/ 
+ex005/ 
 ├── README.md 
 └── main.c 
 ```
