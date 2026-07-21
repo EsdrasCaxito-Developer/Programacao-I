@@ -1,7 +1,5 @@
 # 📘 Exercício 1
 
-**Dados por estrutura**
-
 Fazer um programa que armazena três dados sobre si.
 
 Usar estrutura.

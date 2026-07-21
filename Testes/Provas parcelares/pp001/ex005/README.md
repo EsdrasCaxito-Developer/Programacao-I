@@ -1,7 +1,5 @@
 # 📘 Exercício 5
 
-**Maior substring comum**
-
 Dada uma string (frase), fazer um programa que apresente todas as palavras em minúsculas (as considere separadas por espaço) e o tamanho de cada palavra.
 
 **Entrada**

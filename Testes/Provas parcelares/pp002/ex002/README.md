@@ -29,7 +29,7 @@ Obs: Qualquer uma destas matrizes ou outras, mas a soma sempre será igual.
 ## 📂 Estrutura do Projeto
 
 ```
-ex001/ 
+ex002/ 
 ├── README.md 
 └── main.c 
 ```
@@ -45,4 +45,12 @@ ex001/
 
 - Bibliotecas padrão do C
 
+- Biblioteca time.h <br>
+    (Gerar valores aleatórios)
+
+- Biblioteca stdbool.h <br>
+    (Trabalhar com variáveis booleanas)
+
 - Estrutura de repetição for
+
+- Manipulação de matrizes

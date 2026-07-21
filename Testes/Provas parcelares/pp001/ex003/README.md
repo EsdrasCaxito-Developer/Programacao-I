@@ -1,7 +1,5 @@
 # 📘 Exercício 3
 
-**String inside**
-
 Dada uma string o valor de inicio da contagem e a quantidade de caracteres que serão contados. Fazer umn programa que apresente os caracteres contados.
 
 **Entrada**

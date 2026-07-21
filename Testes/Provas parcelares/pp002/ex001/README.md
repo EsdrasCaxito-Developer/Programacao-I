@@ -25,4 +25,4 @@ ex001/
 
 - Bibliotecas padrão do C
 
-- Estrutura de repetição for
+- Struct

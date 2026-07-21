@@ -1,7 +1,5 @@
 # 📘 Exercício 2
 
-**Análise combinatóra - Escritórios (A & F)**
-
 Usando a sua capacidade de análise, reflexão, reformulação e de exclusão segue:
 
 No SPACIUM do ISPTEC existe uma fila linear de 7 escritórios (numeros de 1 à 7), cada escritório pode estar aberto (A) ou fechado (F), considerando apenas configurações com exatamente 3 escritórios abertos e 4 fechados, faça um programa em C para:
