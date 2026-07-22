@@ -6,7 +6,7 @@ Implemente um programa que leia um número inteiro n e verifique se ele é um n�
 Armstrong. Um número de Armstrong é aquele que é igual à soma de seus dígitos elevados à
 quantidade de dígitos. 
 
-Exemplo: 153 = 13 + 53 + 33
+Exemplo: 153 = 1<sup>3</sup> + 5<sup>3</sup> + 3<sup>3</sup>
 .
 
 ---
