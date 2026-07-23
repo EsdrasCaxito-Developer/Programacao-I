@@ -14,7 +14,7 @@ int main(int argc, char *argv[]) {
 	printf("\nInforme a string2: ");
 	fgets(string2, 10, stdin);
 	
-	int tm = (strlen(string1) > strlen(string2)) 
+	int tm = (strlen(string1) >= strlen(string2)) 
 			 ? strlen(string2)
 			 : strlen(string1);
 	int c=0;

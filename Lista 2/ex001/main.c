@@ -12,16 +12,14 @@ int main(int argc, char *argv[]) {
 	printf("Informe o valor de b: ");
 	scanf("%d", &b);
 	
-	if(a<0 || b<0){
-		printf("\nO produto resulta em valor negativo");
-	}
-	
 	if(a==0 || b==0){
 		printf("\nO produto resulta em valor nulo");
 	}
-	
-	if(a>0 && b>0){
+	else if(a>0 && b>0 || a<0 && b<0){
 		printf("\nO produto resulta em valor positivo");
+	}
+	else{
+		printf("\nO produto resulta em valor negativo");
 	}
 	
 	return 0;

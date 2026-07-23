@@ -22,7 +22,7 @@ int main(int argc, char *argv[]) {
 	if(tempo_fim >= tempo_inicio){
 		duracao = tempo_fim - tempo_inicio;
 		
-		if(duracao < duracao_m_diaria){
+		if(duracao <= duracao_m_diaria){
 			duracao_h = duracao / 60;
 			duracao_m = duracao % 60;
 		}
@@ -30,7 +30,7 @@ int main(int argc, char *argv[]) {
 	else{
 		duracao = duracao_m_diaria - (hi*60 + mi) + (hf*60 + mf);
 		
-		if(duracao < duracao_m_diaria){
+		if(duracao <= duracao_m_diaria){
 			duracao_h = duracao / 60;
 			duracao_m = duracao % 60;
 		}

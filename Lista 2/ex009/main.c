@@ -9,9 +9,20 @@ int main(int argc, char *argv[]) {
 	
 	printf("\nInforme o valor de n: ");
 	scanf("%d", &n);
+	printf("\n");
 	
 	for(int i=1; i<n; i++){
-		if(n%i == 0){sm+=i;}
+		for(int j=1; j<i; j++){
+			if(i%j == 0){
+				sm += j;
+			}
+		}
+		
+		if(sm == i){
+			printf("%d ", i);
+		}
+		
+		sm=0;
 	}
 	
 	if(n==sm){

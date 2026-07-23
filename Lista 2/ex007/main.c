@@ -12,9 +12,9 @@ int main(int argc, char *argv[]) {
 	
 	int letra_n = (int) letra, vogal = 0;
 	
-	if(letra_n - 97 < 26 || letra_n - 65 < 26){
+	if(letra_n >= 65 || letra_n >= 97){
 		
-		if(letra_n - 65 >= 0 && letra_n - 65 < 26){
+		if(letra_n - 65 < 26){
 			vogal = letra_n - 65;
 		}
 		else{
