@@ -19,8 +19,17 @@ int main(int argc, char *argv[]) {
 		duracao_h=0,
 		duracao_m_diaria = 24*60;
 	
+	duracao = tempo_fim - tempo_inicio;
+	
+	if(duracao < 0){
+		duracao += duracao_m_diaria;	
+	}
+	
+	duracao_h = duracao / 60;
+	duracao_m = duracao % 60;
+	
+	/*
 	if(tempo_fim >= tempo_inicio){
-		duracao = tempo_fim - tempo_inicio;
 		
 		if(duracao <= duracao_m_diaria){
 			duracao_h = duracao / 60;
@@ -35,6 +44,7 @@ int main(int argc, char *argv[]) {
 			duracao_m = duracao % 60;
 		}
 	}
+	*/
 	
 	printf("\nO tempo de duracao %dh:%dmin", duracao_h, duracao_m);
 	
