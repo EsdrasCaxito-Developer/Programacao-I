@@ -1,6 +1,6 @@
 # 📘 Exercício 1
 
-**A empresa XPTO Solutions**, pretende saber a quantidade de salaários mínimos ganhas pelo seu develpor <em>DannyTullingAdm</em>. Faça um programa que leia o salário  mínimo e o valor do salário do DannyTullingAdm. Calcule e apresente quantos salários mínimos que ele ganha.
+**A empresa XPTO Solutions**, pretende saber a quantidade de salários mínimos ganhos pelo seu develpor <em>DannyTullingAdm</em>. Faça um programa que leia o salário  mínimo e o valor do salário do DannyTullingAdm. Calcule e apresente quantos salários mínimos que ele ganha.
 
 **Entrada**
 
