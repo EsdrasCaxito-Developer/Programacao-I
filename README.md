@@ -49,7 +49,7 @@ A lista contém **14 exercícios**.
 --- 
 
 ### 📗 Lista 2 
-— Estruturas Condicionais e de Repetição 
+- Estruturas Condicionais e de Repetição 
 
 A segunda lista introduz estruturas de decisão e repetição através de problemas envolvendo: 
 - Condições (`if`, `else`) 
@@ -98,6 +98,7 @@ Estas resoluções complementam os conteúdos estudados nas listas e ajudam na p
 - Biblioteca Padrão da Linguagem C 
 - Bibliotecas do C 
 
+---
 
 ## 🎯 Objetivos 
 Este repositório tem como principais objetivos: 
