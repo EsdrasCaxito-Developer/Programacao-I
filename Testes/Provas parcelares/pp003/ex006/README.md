@@ -44,3 +44,5 @@ ex006/
 
 - Bibliotecas padrão do C
 
+- Manipulação de strings
+
