@@ -37,5 +37,35 @@ int main(int argc, char *argv[]) {
 		printf("\n");
 		
 	}
+	
+	printf("\nSaida Espiral\n\n");
+	
+	int top = 0,
+		bottom = n-1,
+		left = 0,
+		right = n-1;
+	
+	while(top <= bottom){
+		for(int i=left; i<=right; i++){
+			printf("%d ", mat[top][i]);
+		}
+		top += 1;
+		
+		for(int j=top; j<=bottom; j++){
+			printf("%d ", mat[j][right]);
+		}
+		right -= 1;
+	
+		for(int k=right; k>=left; k--){
+			printf("%d ", mat[bottom][k]);
+		}
+		bottom -= 1;
+		
+		for(int k=bottom; k>=top; k--){
+			printf("%d ", mat[left][k]);
+		}
+		left += 1;
+	}
+	
 	return 0;
 }
