@@ -20,20 +20,6 @@ DESAFIO TULLINGORA: Tullingora é o desafio Papoite Tulling Organiza e Gira que 
 
     1234543212345432345434545
 
-    1 -  2 -  3 -  4  - 5
-                        |
-                        4
-                        |
-                        3
-                        |
-                        2
-                        |
-                        
-
-
-
-
-
 ---
 ## 📂 Estrutura do Projeto
 
@@ -53,3 +39,5 @@ ex003/
 ## 📚 Conteúdos Praticados
 
 - Bibliotecas padrão do C
+
+- Manipulação de vetores
