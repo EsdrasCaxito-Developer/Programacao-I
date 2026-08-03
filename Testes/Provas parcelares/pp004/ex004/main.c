@@ -52,7 +52,7 @@ int main(int argc, char *argv[]) {
 		}
 	}
 	
-	int s=0, c=0;
+	int s=0;
 	
 	for(int i=0; i<n; i++){
 		for(int j=0; j<strlen(string_full); j++){
@@ -73,8 +73,8 @@ int main(int argc, char *argv[]) {
 						printf("%c", string_full[s]);
 						sm += (int) string_full[s];
 						s++;
-						c=0;
 					}	
+
 					printf("\n");
 				}
 				

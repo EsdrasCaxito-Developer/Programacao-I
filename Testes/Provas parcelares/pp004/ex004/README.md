@@ -35,3 +35,7 @@ ex004/
 ## 📚 Conteúdos Praticados
 
 - Bibliotecas padrão do C
+
+- Biblioteca string.h (strcat, strlen)
+
+- Manipulação de strings
