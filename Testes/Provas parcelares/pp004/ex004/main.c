@@ -71,7 +71,6 @@ int main(int argc, char *argv[]) {
 					
 					for(int l=0; l<string_length[i]; l++){
 						printf("%c", string_full[s]);
-						sm += (int) string_full[s];
 						s++;
 					}	
 
