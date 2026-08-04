@@ -34,3 +34,11 @@ ex006/
 ## 📚 Conteúdos Praticados
 
 - Bibliotecas padrão do C
+
+- Biblioteca string.h(strlen)
+
+- Biblioteca ctype(toupper())
+
+- Biblioteca stdbool.h
+
+- Manipulação de strings
